@@ -1,5 +1,8 @@
 programa
 {
+/*O programa “Tempo de vida” irá imprimir a soma das idades de todos os colegas da sua equipe (6 pessoas).
+Pergunte a cada um a idade e não esqueça a sua!
+Depois faça a atribuição direta da expressão em uma variável inteira.*/
 	inteiro idade1, idade2, idade3, idade4, idade5, m_idade, tempo_de_vida
 	
 	funcao inicio()
@@ -26,7 +29,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 142; 
+ * @POSICAO-CURSOR = 166; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

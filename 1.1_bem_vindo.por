@@ -1,13 +1,14 @@
 programa
 {
+//O programa “bem-vindo” pergunta seu nome e sobrenome, e depois gentilmente te cumprimenta.
 	cadeia nome, sobrenome
 	
 	funcao inicio()
 	{
 		escreva("Qual o seu nome? ")
-		leia(nome)
+		leia(nome)//Coleta o nome.
 		escreva("E o seu sobrenome? ")
-		leia(sobrenome)
+		leia(sobrenome)//Coleta o sobrenome.
 		escreva("Olá ", nome, " ", sobrenome, ", seja bem vindo(a) ao universo da programação!")
 	}
 }
@@ -16,7 +17,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 131; 
+ * @POSICAO-CURSOR = 209; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

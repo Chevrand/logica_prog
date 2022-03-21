@@ -1,5 +1,7 @@
 programa
 {
+/*Crie o programa “mini calculadora”, que após ler dois números inteiros apresenta as operações de soma,
+subtração, multiplicação e divisão com eles.*/
 	inteiro numero1, numero2, soma, sub, mult, div
 		
 	funcao inicio()
@@ -30,7 +32,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 587; 
+ * @POSICAO-CURSOR = 277; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
